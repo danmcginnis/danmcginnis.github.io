@@ -5008,11 +5008,14 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #00a866; 
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  background: url(../images/santa_claus_cat-wallpaper-1920x1080.jpg);
+  background-size: cover;
+  height: 100vh;
+  /*color: inherit;*/
 }
 .jumbotron p {
   margin-bottom: 15px;

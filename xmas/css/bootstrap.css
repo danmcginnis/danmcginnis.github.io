@@ -6846,7 +6846,9 @@ button.close {
   background-color: #00a866;
   background: url(../images/snowy_tree.jpeg);
   background-size: cover;
-  height:100vh
+  height:100vh;
+  position:fixed;
+  width:100%;
 }
 
 .jumbotron .h1, .jumbotron h1 {
